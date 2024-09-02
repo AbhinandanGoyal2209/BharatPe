@@ -246,22 +246,6 @@ body{
 .content5-2{
     width: 800px;
 }
-/* .content6{
-   background-color: #00afcb;
-    height: 500px;
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-} */
-/* .content8{
-    background-color: #00afcb;
-    margin-top: 100px;
-    height: 250px;
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-
-} */
 .signup{
    margin-left: 0px;
    height: 50px;
